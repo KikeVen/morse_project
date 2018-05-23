@@ -1,4 +1,4 @@
-""" By calling morse_this(), the module takes a string
+""" By calling morse_this(), the module takes a string argument
 and returns the morse code equivalent"""
 
 morse_dictionary = {
