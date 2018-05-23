@@ -4,7 +4,7 @@
 
 This repository is to support the video and written morse code tutorials:
 * [defcodeblog](https://wp.me/p8k2yu-4)
-* [defCode YouTube](https://www.youtube.com/channel/UCUkbK6jMUr05WKzGQ0IzpBg/)
+* [defCode YouTube](https://www.youtube.com/watch?v=yRuAog2SU9o&list=PLUUO_MQ7WDOdUgf_EXXDLwJI_K0b5JjQ6)
 
 How to design and program a morse code module and integrate it into other scripts to illustrate modular programming. `morsepi.py` module can be leverage by other applications, such as:
 
@@ -20,6 +20,8 @@ File name | Location | Description
 ---------|----------|---------
  morsepi.py | root | primary morse code module
  01_system_console.py | root | system console ui morse pi integration
+ morsepi_sequential.py | dev | morsepi script written sequentially
+ morsepi_sequential_function.py | dev | morsepi written in sequence as a function
  morse_logic.png | media | script logic info-graphic
 
 ---
