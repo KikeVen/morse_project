@@ -8,7 +8,9 @@ This repository is to support the video and written morse code tutorials:
 
 How to design and program a morse code module and integrate it into other scripts to illustrate modular programming. `morsepi.py` module can be leverage by other applications, such as:
 
-* A terminal UI
+* Morse module: morsepi.py
+
+* A terminal UI: 01_system_console.py
 * Voice interface
 * Web interface
 * Raspberry pi GPIO integration
