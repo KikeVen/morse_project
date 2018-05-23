@@ -19,6 +19,7 @@ How to design and program a morse code module and integrate it into other script
 File name | Location | Description
 ---------|----------|---------
  morsepi.py | root | primary morse code module
+ 01_system_console.py | root | system console ui morse pi integration
  morse_logic.png | media | script logic info-graphic
 
 ---
