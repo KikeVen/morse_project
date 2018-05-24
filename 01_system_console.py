@@ -19,6 +19,7 @@ while True:
     else:
         MORSED_TEXT = morsepi.morse_this(TEXT_STRING)
         print(MORSED_TEXT)
+        print()
 
 print()
 print('Thank you for using morsepi!')
