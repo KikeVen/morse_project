@@ -11,8 +11,8 @@ How to design and program a morse code module and integrate it into other script
 * Morse module: **morsepi.py**
 
 * A terminal UI: **01_system_console.py**
-* Voice interface
 * Web interface
+* Voice interface
 * Raspberry pi GPIO integration
 * Possible Alexa integration
 
