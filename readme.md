@@ -31,6 +31,8 @@ The module will have a morse code dictionary with the alphabet, numbers and char
 ![Logic diagram](media/morse_logic.png)
 
 ---
-## Useful references
-**Python String foramt()**
-<https://www.programiz.com/python-programming/methods/string/format>
+
+Thank you
+
+
+defCode
