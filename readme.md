@@ -1,6 +1,6 @@
 # Modular programming tutorial
 
-## This repository host all the files in the Morse Code tutorial.
+## This repository host all the files in the [Morse Code tutorial](https://defcodeblog.wordpress.com/2018/02/28/first-blog-post/#more-4)
 
 This repository is to support the video and written morse code tutorials:
 * **Tutorial:** [defcodeblog](https://wp.me/p8k2yu-4)
@@ -9,10 +9,9 @@ This repository is to support the video and written morse code tutorials:
 How to design and program a morse code module and integrate it into other scripts to illustrate modular programming. `morsepi.py` module can be leverage by other applications, such as:
 
 * Morse module: **morsepi.py**
-
 * A terminal UI: **01_system_console.py**
-* Web interface
 * Voice interface
+* Web interface
 * Raspberry pi GPIO integration
 * Possible Alexa integration
 
