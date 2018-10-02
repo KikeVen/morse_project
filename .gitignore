@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Untracked files
+dev/
+.vscode/
+wit_speech_sample/
+voice_recogniton.md
+voice_recognition.todo
+test.html
