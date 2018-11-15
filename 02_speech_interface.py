@@ -6,7 +6,7 @@ import speech_recognition as sr
 
 #-------------------- Keys and constants -------------------------------#
 
-WIT_AI_KEY = witai.KEY_IMPORT #place your Wit.ai App key here
+WIT_AI_KEY = "YOUR WIT.AI KEY HERE"
 LADY_VOICE = 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0'
 r = sr.Recognizer()
 MICROPHONE = sr.Microphone()
