@@ -1,5 +1,5 @@
 import time
-import pyttsx
+import pyttsx3
 import morsepi as mp
 import witai
 import speech_recognition as sr
@@ -15,7 +15,7 @@ MICROPHONE = sr.Microphone()
 
 def broadcast(message, mode):
     """ converts message string to speech"""
-    engine = pyttsx.init()
+    engine = pyttsx3.init()
     if mode == 0:
         print(message)
         engine.say(message)
@@ -54,7 +54,7 @@ def wit_me():
 
 def sing_it_man(sing_this):
     """Says the returned morse code by morsepi """
-    sing_engine = pyttsx.init()
+    sing_engine = pyttsx3.init()
     rate = sing_engine.getProperty('rate')
     sing_engine.setProperty('rate', rate+10)
     sing_engine.setProperty('voice', LADY_VOICE)
