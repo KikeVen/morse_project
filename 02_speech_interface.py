@@ -60,7 +60,7 @@ def sing_it_man(sing_this):
     sing_engine.setProperty('voice', LADY_VOICE)
     sing_string = []
     for x in sing_this:
-        if x == '.': 
+        if x == '.':
             sing_string.append('dot ')
         if x == '-':
             sing_string.append('dash ')
